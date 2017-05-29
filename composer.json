@@ -2,7 +2,7 @@
     "name": "comocozy/flarum-ext-korean",
     "type": "flarum-extension",
     "description": "Korean language pack.",
-    "keywords": ["locale"],
+    "keywords": ["locale","flarum"],
     "license": "MIT",
     "authors": [
     {
