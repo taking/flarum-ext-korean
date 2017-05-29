@@ -13,9 +13,7 @@
 
 ## 문제점
 
-아래 주소에 접속하여 올려주세요.  
-
-    https://github.com/Comocozy/flarum-ext-korean/issues
+[여기](https://github.com/Comocozy/flarum-ext-korean/issues)에 접속하여 올려주세요.
 
 # Korean Language Pack for Flarum
 This language pack is an extension package of [Flarum](http://flarum.org/).
@@ -32,6 +30,4 @@ First of all, please change the default laguage setting to Enlgish, then run the
 
 ## Issue report
 
-Please go to the link to report an issue.  
-
-    https://github.com/Comocozy/flarum-ext-korean/issues
+Please go to [this link](https://github.com/Comocozy/flarum-ext-korean/issues) to report an issue.
