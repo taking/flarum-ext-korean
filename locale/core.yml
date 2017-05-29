@@ -375,9 +375,9 @@ core:
       avatar_remove_button: 제거
       avatar_upload_button: 올리기
       avatar_upload_tooltip: 아바타 올리기
-      bio_placeholder: 당신에 대한 글을 써주세요
+      bio_placeholder: 당신에 대한 소개 글을 써주세요
       discussions_link: => core.ref.discussions
-      in_discussion_text: "{discussion} 중"
+      in_discussion_text: "{discussion}"
       joined_date_text: "{ago} 전에 가입"
       online_text: 접속 중
       posts_load_more_button: => core.ref.load_more
