@@ -1,9 +1,19 @@
 {
-    "name": "flarum/flarum-ext-korean",
+    "name": "comocozy/flarum-ext-korean",
     "type": "flarum-extension",
     "description": "Korean language pack.",
     "keywords": ["locale"],
     "license": "MIT",
+    "authors": [
+    {
+        "name": "Comocozy",
+        "email": "woogyom@comocozy.com"
+    }
+    ],
+    "support": {
+      "issues": "https://github.com/Comocozy/flarum-ext-korean/issues",
+      "source": "https://github.com/Comocozy/flarum-ext-korean"
+    },
     "require": {
         "flarum/core": "^0.1.0-beta.6"
     },
