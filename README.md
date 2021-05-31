@@ -4,10 +4,10 @@
 
 ## 설치방법
 
-    composer require taking/flarum-ext-korean
+    composer require taking/flarum-ext-korean:dev-master
 
 ## 제거방법
 
 기본 언어설정을 영어로 변경 후 아래 명령을 실행해주세요.  
 
-    composer remove taking/flarum-ext-korean
+    composer remove taking/flarum-ext-korean:dev-master
