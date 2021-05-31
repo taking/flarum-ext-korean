@@ -1,21 +1,21 @@
 {
-    "name": "comocozy/flarum-ext-korean",
+    "name": "taking/flarum-ext-korean",
     "type": "flarum-extension",
     "description": "Korean language pack.",
     "keywords": ["locale","flarum"],
     "license": "MIT",
     "authors": [
     {
-        "name": "Comocozy",
-        "email": "woogyom@comocozy.com"
+        "name": "taking",
+        "email": "ceo@taking.kr"
     }
     ],
     "support": {
-      "issues": "https://github.com/Comocozy/flarum-ext-korean/issues",
-      "source": "https://github.com/Comocozy/flarum-ext-korean"
+      "issues": "https://github.com/taking/flarum-ext-korean/issues",
+      "source": "https://github.com/taking/flarum-ext-korean"
     },
     "require": {
-        "flarum/core": "^0.1.0-beta.6"
+        "flarum/core": "^1.0"
     },
     "extra": {
         "branch-alias": {
