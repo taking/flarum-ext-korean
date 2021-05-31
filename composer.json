@@ -18,9 +18,6 @@
         "flarum/core": "^1.0"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "0.1.x-dev"
-        },
         "flarum-extension": {
             "title": "Korean",
             "icon": {
