@@ -5,12 +5,9 @@
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
-        "flarum/core": "^1.0"
+        "flarum/core": "^1.0.0"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "1.x-dev"
-        },
         "flarum-extension": {
             "title": "Korean",
             "category": "language",
